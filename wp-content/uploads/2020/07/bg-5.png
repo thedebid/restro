@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="//gmpg.org/xfn/11" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" >   	
+ 
+	<title>Page not found &#8211; Canteen &#8211; Restaurant WordPress Theme</title>
+<meta name='robots' content='noindex,nofollow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Canteen - Restaurant WordPress Theme &raquo; Feed" href="https://smartinnovates.com/themes/canteen/wp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Canteen - Restaurant WordPress Theme &raquo; Comments Feed" href="https://smartinnovates.com/themes/canteen/wp/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/smartinnovates.com\/themes\/canteen\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9' type='text/css' media='all' />
+<link rel='stylesheet' id='canteen-plugin-style-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/canteen-essential/widgets/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='canteen-fonts-css'  href='//fonts.googleapis.com/css?family=Josefin+Sans%3A300%2C400%2C400i%2C500%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%7CPoppins%3A300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='icon-font-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/icon-font.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/magnific-popup.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/animate.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='magic-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/magic.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/slick.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-fatnav-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/jquery.fatNav.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-headline-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/animate.headline.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='splitting-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/splitting.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='splitting-cells-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/css/splitting-cells.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='canteen-style-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='canteen-style-inline-css' type='text/css'>
+
+		.load-circle{border-top-color: #ce9e51;}
+		
+
+		.cart-contents-count,.tagcloud a:hover,.to-top,.to-top:hover,.to-top::after,.blog-link-img,.portfolio-type-three .port-inner:hover .dbox-relative a span,.dsc-footer-style-3 h3:after
+		{background-color:#C9AB81;}
+
+		.dsc-heading-style1 h5, a:hover, .content-title span,.table-content h3 > span,.white-header .header-icon li.current-menu-parent> a,.white-header .navigation li.current-menu-parent> a,.white-header .menu-wrapper .menu ul li.current-menu-parent> a,.white-header .header-icon li.current_page_item> a,.white-header .navigation li.current_page_item> a,.white-header .menu-wrapper .menu ul li.current_page_item> a , .custom-absolute-menu .is-sticky .navigation li.current-menu-item a,.custom-absolute-menu .is-sticky .menu-wrapper .menu ul li.current-menu-item a, .custom-absolute-menu .is-sticky .navigation li a:hover,.custom-absolute-menu .is-sticky .menu-wrapper .menu ul li a:hover, .custom-absolute-menu .navigation .sub-menu li a:hover,.custom-absolute-menu .menu-wrapper .menu ul.sub-menu li a:hover,.white-header  .navigation li a:hover,.white-header .menu-wrapper .navigation li ul li.current_page_item > a,.menu-wrapper .navigation li ul li.current_page_item > a, .menu-wrapper .menu ul li ul li.current_page_item > a ,.white-header .menu-wrapper .menu ul li ul li.current_page_item > a, .white-header .menu-wrapper .navigation li ul li a:hover,.menu-wrapper .navigation li ul li a:hover, .menu-wrapper .menu ul li ul li a:hover ,.white-header .menu-wrapper .menu ul li ul li a:hover, .header-icon li a:hover, .btn-nav-top a:hover,.slider-btn:hover,.feature-1:hover .canteen-icon,.feature-2 .canteen-icon,.feature-2:hover .canteen-icon,.feature-3 .canteen-icon,.feature-3:hover .canteen-icon,.port-filter a.active,.port-filter a:hover,.portfolio-2 .port-inner:hover .dbox-relative h3 a:hover,.portfolio-2 .port-inner .port-dbox a span:hover,.portfolio-type-three .dbox-relative p,.team-1 p,.testimonial .rating-icon,.wpcf7-submit ,.dark-page .wpcf7-submit,.content-btn,.color-bg .wpcf7-submit,span.your-email:before, span.your-name:before, span.your-message:before, .comment-form-email:before,span.cell-phone:before,span.subject:before,.footer a,.post-meta a,.post-meta li,.blog-post-list a:hover h3,.blog-2 .content-btn,a .entry-title:hover,.tags-bottom a:hover,.share-box a:hover,.related-cat i,h3.related-title:hover,#searchform::after,.tagcloud a,.tagcloud a:hover,.abtw-soc a:hover,.form-submit #submit:hover,.dsc-btn-style3:hover  .elementor-button,.dsc-btn-style-4,code,.comment-reply-link
+		{color:#C9AB81;}
+
+		.to-top,.content-title:after,::selection,::-moz-selection,.to-top::before,.to-top::after,.box-small-icon:hover .canteen-icon,.navigation>li>a:before,.menu-wrapper>.menu>ul>li>a:before,.custom-absolute-menu .is-sticky .navigation>li>a:before,.menu-wrapper>.menu>ul>li>a:before,.btn-nav-top a,.search-icon-header #searchform::after,.slider-line,.left-box-slider .slider-line,.center-box-slider .slider-line,.feature-4 .canteen-icon,.other-portfolio .port-box,.portfolio-type-three .port-inner:hover .dbox-relative a span,.team-2 .port-box,.content-btn:hover,.wpcf7-submit:hover,.dsc-footer-style-2 .mc4wp-form-fields input[type=submit]:hover,.dsc-footer-style-3 h3:after,.dsc-footer-style-3 .mc4wp-form-fields input[type=submit], .blog-link-img .bl-icon, .blog-link-img,.blog-gallery a i,.img-pagi,.widget-border,.ab-bordering,.abtw-soc a,.form-submit #submit,.dsc-btn-style3,.dsc-btn-style-4:hover,.tagcloud a:hover,.to-top,.portfolio-type-three .port-inner:hover .dbox-relative a span
+		{background:#C9AB81;}
+		
+		.p-table a ,.blog-slider .slide-nav:hover,.work-content .slide-nav:hover,.tagcloud a:hover
+		{color:#fff;}
+
+		.dsc-btn-style3
+		{background-color:#fff;}
+		
+		blockquote,.box-small-icon:hover .canteen-icon,.cell-left-border,.cell-right-border,.menu-wrapper ul li ul,.btn-nav-top a,.btn-nav-top a:hover,.feature-4 .canteen-icon,.portfolio-2 .port-inner .port-dbox a span:hover,.portfolio-type-three .port-inner:hover .dbox-relative a span,.portfolio-type-three .port-inner:hover .dbox-relative h3,.team-sicon li a:hover,.team-1 .team-info,form input:focus,form textarea:focus,.comment-respond form input:focus, .comment-respond form textarea:focus,.wpcf7-submit ,.dark-page .wpcf7-submit,.content-btn,.wpcf7-submit:hover,.error-title,.blog-2 .content-btn i,.tags-bottom a:hover,.share-box a:hover,#related_posts .related-inner:hover,.tagcloud a,.tagcloud a:hover,.form-submit #submit,.form-submit #submit:hover,.dsc-btn-style3:hover,.dsc-btn-style-4,.dsc-btn-style-4:hover,.wp-block-coblocks-click-to-tweet
+		{border-color:#C9AB81;}
+		
+a:hover{color:#c9ab81;}
+a{color:#999999;}
+h1, h2, h3, h4, h5, h6{color:#000000;} 
+body{color:#666666;}
+.footer{background-color:#202020;}
+.white-header .is-sticky .stuck-nav{background-color: #ffffff;}
+.custom-absolute-menu{border-color: #ffffff;}
+
+		.cart-contents-count,.tagcloud a:hover,.to-top,.to-top:hover,.to-top::after,.blog-link-img,.portfolio-type-three .port-inner:hover .dbox-relative a span,.dsc-footer-style-3 h3:after
+		{background-color:#C9AB81;}
+
+		.dsc-heading-style1 h5, a:hover, .content-title span,.table-content h3 > span,.white-header .header-icon li.current-menu-parent> a,.white-header .navigation li.current-menu-parent> a,.white-header .menu-wrapper .menu ul li.current-menu-parent> a,.white-header .header-icon li.current_page_item> a,.white-header .navigation li.current_page_item> a,.white-header .menu-wrapper .menu ul li.current_page_item> a , .custom-absolute-menu .is-sticky .navigation li.current-menu-item a,.custom-absolute-menu .is-sticky .menu-wrapper .menu ul li.current-menu-item a, .custom-absolute-menu .is-sticky .navigation li a:hover,.custom-absolute-menu .is-sticky .menu-wrapper .menu ul li a:hover, .custom-absolute-menu .navigation .sub-menu li a:hover,.custom-absolute-menu .menu-wrapper .menu ul.sub-menu li a:hover,.white-header  .navigation li a:hover,.white-header .menu-wrapper .navigation li ul li.current_page_item > a,.menu-wrapper .navigation li ul li.current_page_item > a, .menu-wrapper .menu ul li ul li.current_page_item > a ,.white-header .menu-wrapper .menu ul li ul li.current_page_item > a, .white-header .menu-wrapper .navigation li ul li a:hover,.menu-wrapper .navigation li ul li a:hover, .menu-wrapper .menu ul li ul li a:hover ,.white-header .menu-wrapper .menu ul li ul li a:hover, .header-icon li a:hover, .btn-nav-top a:hover,.slider-btn:hover,.feature-1:hover .canteen-icon,.feature-2 .canteen-icon,.feature-2:hover .canteen-icon,.feature-3 .canteen-icon,.feature-3:hover .canteen-icon,.port-filter a.active,.port-filter a:hover,.portfolio-2 .port-inner:hover .dbox-relative h3 a:hover,.portfolio-2 .port-inner .port-dbox a span:hover,.portfolio-type-three .dbox-relative p,.team-1 p,.testimonial .rating-icon,.wpcf7-submit ,.dark-page .wpcf7-submit,.content-btn,.color-bg .wpcf7-submit,span.your-email:before, span.your-name:before, span.your-message:before, .comment-form-email:before,span.cell-phone:before,span.subject:before,.footer a,.post-meta a,.post-meta li,.blog-post-list a:hover h3,.blog-2 .content-btn,a .entry-title:hover,.tags-bottom a:hover,.share-box a:hover,.related-cat i,h3.related-title:hover,#searchform::after,.tagcloud a,.tagcloud a:hover,.abtw-soc a:hover,.form-submit #submit:hover,.dsc-btn-style3:hover  .elementor-button,.dsc-btn-style-4,code,.comment-reply-link
+		{color:#C9AB81;}
+
+		.to-top,.content-title:after,::selection,::-moz-selection,.to-top::before,.to-top::after,.box-small-icon:hover .canteen-icon,.navigation>li>a:before,.menu-wrapper>.menu>ul>li>a:before,.custom-absolute-menu .is-sticky .navigation>li>a:before,.menu-wrapper>.menu>ul>li>a:before,.btn-nav-top a,.search-icon-header #searchform::after,.slider-line,.left-box-slider .slider-line,.center-box-slider .slider-line,.feature-4 .canteen-icon,.other-portfolio .port-box,.portfolio-type-three .port-inner:hover .dbox-relative a span,.team-2 .port-box,.content-btn:hover,.wpcf7-submit:hover,.dsc-footer-style-2 .mc4wp-form-fields input[type=submit]:hover,.dsc-footer-style-3 h3:after,.dsc-footer-style-3 .mc4wp-form-fields input[type=submit], .blog-link-img .bl-icon, .blog-link-img,.blog-gallery a i,.img-pagi,.widget-border,.ab-bordering,.abtw-soc a,.form-submit #submit,.dsc-btn-style3,.dsc-btn-style-4:hover,.tagcloud a:hover,.to-top,.portfolio-type-three .port-inner:hover .dbox-relative a span
+		{background:#C9AB81;}
+		
+		.p-table a ,.blog-slider .slide-nav:hover,.work-content .slide-nav:hover,.tagcloud a:hover
+		{color:#fff;}
+
+		.dsc-btn-style3
+		{background-color:#fff;}
+		
+		blockquote,.box-small-icon:hover .canteen-icon,.cell-left-border,.cell-right-border,.menu-wrapper ul li ul,.btn-nav-top a,.btn-nav-top a:hover,.feature-4 .canteen-icon,.portfolio-2 .port-inner .port-dbox a span:hover,.portfolio-type-three .port-inner:hover .dbox-relative a span,.portfolio-type-three .port-inner:hover .dbox-relative h3,.team-sicon li a:hover,.team-1 .team-info,form input:focus,form textarea:focus,.comment-respond form input:focus, .comment-respond form textarea:focus,.wpcf7-submit ,.dark-page .wpcf7-submit,.content-btn,.wpcf7-submit:hover,.error-title,.blog-2 .content-btn i,.tags-bottom a:hover,.share-box a:hover,#related_posts .related-inner:hover,.tagcloud a,.tagcloud a:hover,.form-submit #submit,.form-submit #submit:hover,.dsc-btn-style3:hover,.dsc-btn-style-4,.dsc-btn-style-4:hover,.wp-block-coblocks-click-to-tweet
+		{border-color:#C9AB81;}
+		
+a:hover{color:#c9ab81;}
+a{color:#999999;}
+h1, h2, h3, h4, h5, h6{color:#000000;} 
+body{color:#666666;}
+.footer{background-color:#202020;}
+.white-header .is-sticky .stuck-nav{background-color: #ffffff;}
+.custom-absolute-menu{border-color: #ffffff;}
+</style>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/modernizr.js?ver=5.4.2'></script>
+<link rel='https://api.w.org/' href='https://smartinnovates.com/themes/canteen/wp/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://smartinnovates.com/themes/canteen/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://smartinnovates.com/themes/canteen/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+ 
+</head>
+	
+<body class="error404 elementor-default">
+	<div class="cursor"></div>
+
+	<div class="pre-loading"><div class="load-circle"></div></div>				<nav class="header apply-header white-header clearfix"> 
+	<div class="nav-box">
+		<div class="stuck-nav">
+			 <div class="container-fluid">
+				<div class="top-logo">
+					<a href="https://smartinnovates.com/themes/canteen/wp/">
+						<img alt="Logo" class="logo1" src="https://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/images/logo-white.png">
+					</a>
+				</div><!--End Logo-->
+				
+				<div class="header-wrapper  hidden-xs hidden-sm">
+					<div class="menu-wrapper">
+						<div class="menu-top-menu-container"><ul id="menu-top-menu" class="home-nav navigation menu"><li id="menu-item-3098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3098"><a href="#0">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-2667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2667"><a href="https://smartinnovates.com/themes/canteen/wp/">Home 01</a></li>
+	<li id="menu-item-3099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3099"><a href="https://smartinnovates.com/themes/canteen/wp/minimal/">Minimal 02</a></li>
+</ul>
+</li>
+<li id="menu-item-2614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2614"><a href="#0">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-3090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3090"><a href="https://smartinnovates.com/themes/canteen/wp/coming-soon/">Coming soon</a></li>
+	<li id="menu-item-3091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3091"><a href="https://smartinnovates.com/themes/canteen/wp/faq/">FAQ</a></li>
+	<li id="menu-item-2617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2617"><a href="http://smartinnovates.com/themes/canteen/wp/404/">Error page</a></li>
+</ul>
+</li>
+<li id="menu-item-2615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2615"><a href="#0">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-2616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2616"><a href="http://smartinnovates.com/themes/canteen/wp/author/admin/">Blog list</a></li>
+	<li id="menu-item-2668" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2668"><a href="https://smartinnovates.com/themes/canteen/wp/realize-our-service-to-yours/">Post detail</a></li>
+</ul>
+</li>
+<li id="menu-item-3089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3089"><a href="#0">Elements</a>
+<ul class="sub-menu">
+	<li id="menu-item-2628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2628"><a href="https://smartinnovates.com/themes/canteen/wp/portfolio/crab-pretzel/">Portfolio</a></li>
+	<li id="menu-item-2620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2620"><a href="http://smartinnovates.com/themes/canteen/wp/?s=test">Search</a></li>
+</ul>
+</li>
+<li id="menu-item-3096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3096"><a href="https://smartinnovates.com/themes/canteen/wp/contact-us/">contact us</a></li>
+</ul></div>					</div><!-- End menu-wrapper -->
+				
+					<ul class="header-icon hidden-sm hidden-xs"> 
+
+						
+						
+						
+						
+						
+						
+					</ul><!-- top Socials -->
+
+
+					<div class="search-icon-header hidden-xs hidden-sm">
+												<a class="search"  href="#">
+							<i class="fa fa-search"></i>
+						</a>
+						<div class="black-search-block">
+							<div class="black-search-table">
+								<div class="black-search-table-cell">
+									<div>
+																				<form role="search" method="get" id="search-form-1" class="searchform" action="https://smartinnovates.com/themes/canteen/wp/">
+											<input type="search" class="focus-input" placeholder="Type search keyword..." value="" name="s">
+											<input type="submit" class="searchsubmit" value="">
+										</form>
+									</div>
+								</div>
+							</div>
+							<div class="close-black-block"><a href="#"><i class="fa fa-times"></i></a></div>
+						</div>
+						
+						
+						
+						
+							<div class="btn-nav-top">
+				                <a  href="https://smartinnovates.com/themes/canteen/wp/#Contacts">
+			                    Book your seat			               		 </a>
+							</div>
+						
+											</div>
+					
+				</div><!-- header-wrapper -->  
+
+				<div class="mobile-wrapper hidden-lg hidden-md">
+					<a href="#" class="hamburger"><div class="hamburger__icon"></div></a>
+					<div class="fat-nav">
+						<div class="fat-nav__wrapper">
+							<div class="fat-list"> <ul id="menu-top-menu-1" class="mob-nav  menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3098"><a href="#0">Home</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-2667"><a href="https://smartinnovates.com/themes/canteen/wp/">Home 01</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3099"><a href="https://smartinnovates.com/themes/canteen/wp/minimal/">Minimal 02</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2614"><a href="#0">Pages</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3090"><a href="https://smartinnovates.com/themes/canteen/wp/coming-soon/">Coming soon</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3091"><a href="https://smartinnovates.com/themes/canteen/wp/faq/">FAQ</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2617"><a href="http://smartinnovates.com/themes/canteen/wp/404/">Error page</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2615"><a href="#0">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2616"><a href="http://smartinnovates.com/themes/canteen/wp/author/admin/">Blog list</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2668"><a href="https://smartinnovates.com/themes/canteen/wp/realize-our-service-to-yours/">Post detail</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3089"><a href="#0">Elements</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2628"><a href="https://smartinnovates.com/themes/canteen/wp/portfolio/crab-pretzel/">Portfolio</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2620"><a href="http://smartinnovates.com/themes/canteen/wp/?s=test">Search</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3096"><a href="https://smartinnovates.com/themes/canteen/wp/contact-us/">contact us</a></li>
+</ul></div>
+						</div>
+					</div>
+				</div><!--End mobile-wrapper-->
+				
+			</div><!--End container-fluid-->
+		</div><!--End stuck-nav-->
+	</div><!--End nav-box-->
+</nav><!--End header-->
+<div class="clearfix content page-content-wrapper">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12 news-list aligncenter">
+				<h2 class="error-title">404</h2>
+				<p class="error-text">Oops..!!! Page not found!</p>
+				<div class="spc-40 clearboth"></div>
+				<a class="content-btn" href="https://smartinnovates.com/themes/canteen/wp/">
+					Go Back Now!					<span class="content-btn-align-icon-right content-btn-button-icon">
+						<i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+					</span>
+				</a>
+			</div><!--/.col-md-8-->
+		</div><!--/.row-->
+	</div><!--/.container-->
+</div><!--/.content-->
+
+					<nav class="canteen-custom-footer clearfix ">
+								<div data-elementor-type="wp-post" data-elementor-id="1518" class="elementor elementor-1518" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-727af70d dsc-footer-style-3 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="727af70d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-169225f3 animated-fast elementor-invisible elementor-column elementor-col-25 elementor-top-column" data-id="169225f3" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2c913d65 elementor-widget elementor-widget-image" data-id="2c913d65" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="92" src="https://smartinnovates.com/themes/canteen/wp/wp-content/uploads/2019/08/logo-300x92.png" class="attachment-medium size-medium" alt="" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-312254df elementor-widget elementor-widget-text-editor" data-id="312254df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #999999;">Luctus nec ullamcorper mattis, pulvinar dapibus leo. Luctus nec ullamcorper mattis,  leo. Pulvinarnec ullamcorper mattis, pulvinar dapibus leo..</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-101c014c elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="101c014c" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-sink elementor-repeater-item-7ecd304" href="#0" target="_blank">
+					<span class="elementor-screen-only">Facebook-f</span>
+					<i class="fab fa-facebook-f"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-animation-sink elementor-repeater-item-be40675" href="#0" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-behance elementor-animation-sink elementor-repeater-item-cb242fb" href="#0" target="_blank">
+					<span class="elementor-screen-only">Behance</span>
+					<i class="fab fa-behance"></i>				</a>
+							<a class="elementor-icon elementor-social-icon elementor-social-icon-dribbble elementor-animation-sink elementor-repeater-item-685ab30" href="#0" target="_blank">
+					<span class="elementor-screen-only">Dribbble</span>
+					<i class="fab fa-dribbble"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5b4ada71 animated-fast elementor-invisible elementor-column elementor-col-25 elementor-top-column" data-id="5b4ada71" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;,&quot;animation_delay&quot;:100}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-64141ff elementor-widget elementor-widget-heading" data-id="64141ff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Useful Links</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-40cfe7dd elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="40cfe7dd" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item" >
+					<a href="https://smartinnovates.com/themes/canteen/wp/#Contacts">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
+										<span class="elementor-icon-list-text">Friday offer for family!</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://smartinnovates.com/themes/canteen/wp/#Menu">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
+										<span class="elementor-icon-list-text">Special menu for unique meals</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://smartinnovates.com/themes/canteen/wp/#Gallery">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
+										<span class="elementor-icon-list-text">Check all foods gallery</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item" >
+					<a href="https://smartinnovates.com/themes/canteen/wp/#Contacts">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
+										<span class="elementor-icon-list-text">Reserve your seat</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-ef052a6 animated-fast elementor-invisible elementor-column elementor-col-25 elementor-top-column" data-id="ef052a6" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;,&quot;animation_delay&quot;:200}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-77074a6c elementor-widget elementor-widget-heading" data-id="77074a6c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Recent Posts</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-63b5092 elementor-widget elementor-widget-wp-widget-canteen_blog_widget" data-id="63b5092" data-element_type="widget" data-widget_type="wp-widget-canteen_blog_widget.default">
+				<div class="elementor-widget-container">
+			
+
+            <div class="recent-posts-widget">
+
+         <div class="widget-post-thumbnail">
+            <a class="recent-post-img">
+               <img width="1600" height="1067" src="https://smartinnovates.com/themes/canteen/wp/wp-content/uploads/2019/09/food-001.jpg" class="attachment-canteen-featured-image size-canteen-featured-image wp-post-image" alt="" />            </a>
+         </div>
+         <div class="widget-post-content">
+         <h3 class="title light"> <a href="https://smartinnovates.com/themes/canteen/wp/fine-dinner-and-comfortable-space/" title="Fine dinner a comfortable">Fine dinner a comfortable</a></h3>
+
+         <span class="light"><a href="https://smartinnovates.com/themes/canteen/wp/fine-dinner-and-comfortable-space/" title="9:49 pm" rel="bookmark"> <time class="entry-date published" datetime="2020-06-20T21:49:38+00:00">June 20, 2020</time></a></span>         </div>
+
+      </div>
+            <div class="recent-posts-widget">
+
+         <div class="widget-post-thumbnail">
+            <a class="recent-post-img">
+               <img width="1600" height="1069" src="https://smartinnovates.com/themes/canteen/wp/wp-content/uploads/2019/08/coffee-01.jpg" class="attachment-canteen-featured-image size-canteen-featured-image wp-post-image" alt="" />            </a>
+         </div>
+         <div class="widget-post-content">
+         <h3 class="title light"> <a href="https://smartinnovates.com/themes/canteen/wp/better-hot-drink-with-the-elegant/" title="Better hot drink elegant">Better hot drink elegant</a></h3>
+
+         <span class="light"><a href="https://smartinnovates.com/themes/canteen/wp/better-hot-drink-with-the-elegant/" title="9:45 pm" rel="bookmark"> <time class="entry-date published" datetime="2020-05-28T21:45:40+00:00">May 28, 2020</time></a></span>         </div>
+
+      </div>
+      
+      		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-47d0cb25 animated-fast elementor-invisible elementor-column elementor-col-25 elementor-top-column" data-id="47d0cb25" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInDown&quot;,&quot;animation_delay&quot;:300}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-21320b93 elementor-widget elementor-widget-heading" data-id="21320b93" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Get in touch</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4c2376d4 elementor-widget elementor-widget-text-editor" data-id="4c2376d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #999999;">Sign up to our news updates and receive all of our latest products, alerts straight to your inbox!</span></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4c46ebf elementor-widget elementor-widget-wp-widget-mc4wp_form_widget" data-id="4c46ebf" data-element_type="widget" data-widget_type="wp-widget-mc4wp_form_widget.default">
+				<div class="elementor-widget-container">
+			<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.7.8 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1528" method="post" data-id="1528" data-name="footer form" ><div class="mc4wp-form-fields">								<p>
+	<input type="email" name="EMAIL" placeholder="Email address" required />
+<input type="submit" value="Subscribe" />
+</p>
+				</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1594900280" /><input type="hidden" name="_mc4wp_form_id" value="1528" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+							</nav>
+				
+		<!--to top button-->
+		<a class="to-top" href="#">
+			<i class="fa fa-long-arrow-up"></i>
+		</a>
+	<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><link rel='stylesheet' id='elementor-frontend-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.9.12' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1518-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/uploads/elementor/css/post-1518.css?ver=1594682203' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.9.12' type='text/css' media='all' />
+<link rel='stylesheet' id='better-poppins-css'  href='//fonts.googleapis.com/css?family=Poppins%3A400%2C500%2C600%2C700&#038;display=swap&#038;ver=20451215' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/better-elementor-addons//assets/css/fontawesome.min.css?ver=20200508' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwenty-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/better-elementor-addons//assets/css/twentytwenty.css?ver=20200508' type='text/css' media='all' />
+<link rel='stylesheet' id='better-style-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/better-elementor-addons//assets/css/style.css?ver=20200508' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=2.9.12' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=2.9.12' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/smartinnovates.com\/themes\/canteen\/wp\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/bootstrap.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/superfish.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/jquery.fitvids.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/jquery.magnific-popup.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/jquery.sticky.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/slick.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/slick-animation.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/ResizeSensor.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/theia-sticky-sidebar.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/wow.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/svgembedder.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/totop.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/animated.headline.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/splitting.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/scripts.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/themes/canteen/js/loader.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.7.8'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=2.9.12'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.12'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.6'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.12'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.12","urls":{"assets":"http:\/\/smartinnovates.com\/themes\/canteen\/wp\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"general":{"elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":0,"title":"Page not found &#8211; Canteen &#8211; Restaurant WordPress Theme","excerpt":""}};
+</script>
+<script type='text/javascript' src='http://smartinnovates.com/themes/canteen/wp/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.12'></script>
+	</body>
+</html>

@@ -1,0 +1,230 @@
+/*
+Theme Name: Canteen
+Theme URI: https://themeforest.net/
+Author: Design Story
+Author URI:  http://themeforest.net/user/design_story/
+Description: Canteen is a Modern Creative WordPress Theme for Agency to show their works.
+Version: 1.0.2
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: canteen
+Domain Path: /lang
+Tags: one-column, two-columns, right-sidebar,custom-colors,featured-images 
+*/
+
+/* -----------------------------------------------------------
+TABLE OF CONTENTS:-   
+--------------------------------------------------------------
+* Helper Section  
+	- text color
+	- font-weight 
+	- font-size
+	- line-height
+	- text-transform
+	- letter-spacing
+	- Overlay Effect Bg image
+	- margin-top
+	- margin-bottom
+	- padding-top
+	- padding-bottom
+	- the spacing
+	- social-media-colors
+* General Section
+	- Typography
+	- To top style
+	- inner page style
+	- wp post style
+	- Bootstrap Clearfix
+	- Elementor Editor Style
+* Header Section
+* Slider Section
+* Features Section
+* Portfolio Section
+* Team Section
+* Testimonial Section
+* Contact Section
+* Footer Section
+* Blog Section
+	- Sidebar Section
+	- comment section
+* WordPress Style
+* Gutenberg Style
+* Responsive
+
+------------------------------------------------------------*/
+
+@import '_variable.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Helper Section ] 
+-----------------------------------------------------------------*/
+
+@import '_helper.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * General section ]
+-----------------------------------------------------------------*/
+
+@import '_general.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Header section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_preloader.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Header section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_header.scss';
+ 
+
+/* ----------------------------------------------------------------
+			[ * Slider section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_slider_style_1.scss'; 
+@import 'component/_slider_style_3.scss'; 
+@import 'component/_slider_style_4.scss';
+@import 'component/_portfolio_single.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Features section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_feature_style_1.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Work Process section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_work_process.scss';  
+
+
+/* ----------------------------------------------------------------
+			[ * Portfolio section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_portfolio_style_1.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Team Section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_team_style_1.scss';
+
+@import 'component/_team_style_2.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Testimonials Section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_testimonial_style_1.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Contact Section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_contact.scss';
+
+/* ----------------------------------------------------------------
+			[ * keyframes section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_anime.scss';
+/* ----------------------------------------------------------------
+			[ * 404! section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_404.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Footer Section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_footer_style_1.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Blog section ] 
+-----------------------------------------------------------------*/
+
+@import 'component/_blog.scss';
+
+@import 'component/_blog_style_1.scss';
+@import 'component/_blog_recent.scss';
+
+
+/*-------------------SIDEBAR SECTION-------------------------*/
+
+@import 'component/_sidebar.scss';
+
+
+/*-------------COMMENTS SECTION-------------*/
+
+@import 'component/_comments.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Woocommerce section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_woocommerce.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Countdown section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_countdown.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * image section ]
+-----------------------------------------------------------------*/
+
+@import 'element/_image_box.scss';
+
+/* ----------------------------------------------------------------
+			[ * image section ]
+-----------------------------------------------------------------*/
+
+@import 'component/_image_comparison.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * WP Defauult section ]
+-----------------------------------------------------------------*/
+
+@import 'element/_wp_default.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Gutenberg section  ]
+-----------------------------------------------------------------*/
+
+// @import 'element/_gutenberg.scss';
+
+
+/* ----------------------------------------------------------------
+			[ * Responsive section  ]
+-----------------------------------------------------------------*/
+
+@import '_responsive.scss';
+
+
+/* ----------------------------------------------------------------
+			[   End   ]
+-----------------------------------------------------------------*/
+
